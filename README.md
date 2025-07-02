@@ -10,6 +10,6 @@
 - 🏫 College Predictor — Filter-based college prediction
 
 ## 📫 Contact Me
-- Email: your.email@example.com
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- Email: coderparth.7777@gmail.com
+- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/parth-nilkanth/)
+
