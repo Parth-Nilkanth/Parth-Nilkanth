@@ -78,7 +78,9 @@ This project aims to connect mentees (students) and mentors in a helpful way. It
 - 🚀 **Performance Optimization**
 - 🛡️ **Security Best Practices**
 - 📊 **Data Structures & Algorithms**
-- 🤖 **Machine Learning **
+- 🤖 **Machine Learning**
+- 🧩 **Problem Solving**
+- 💻 **Operating Systems**
 
 ## 💻 Coding Profiles
 
@@ -103,7 +105,6 @@ This project aims to connect mentees (students) and mentors in a helpful way. It
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderparth.7777@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-nilkanth)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://to be added)
 
 </div>
 
