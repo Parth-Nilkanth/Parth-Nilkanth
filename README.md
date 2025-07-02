@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm [Parth]
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Problem+Solver;Tech+Enthusiast;Tech-Driven" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Developer** with a love for creating robust, scalable solutions. Currently diving deep into modern technologies and best practices to build systems that make a difference.
+I'm a passionate **Undergrad-Software Engineer** with a love for creating robust, scalable solutions. Currently diving deep into modern technologies and best practices to build systems that make a difference.
 
 - 🔭 **Currently Learning:** [Computer Science]
 - 🌱 **Exploring:** [Java Spring Boot , Micro-Services]
@@ -43,12 +43,12 @@ I'm a passionate **Backend Developer** with a love for creating robust, scalable
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parth-Nilkanth&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-Nilkanth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Nilkanth&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 Featured Projects
@@ -58,27 +58,18 @@ I'm a passionate **Backend Developer** with a love for creating robust, scalable
 
 Brief description of what this project does and why it's awesome. Highlight the key features and impact.
 
-- 🌟 **Key Features:** Feature 1, Feature 2, Feature 3
-- 🎯 **Problem Solved:** What problem does this solve?
-- 🔗 **Links:** [Live Demo](your-demo-link) | [Repository](your-repo-link)
+- 🌟 **Key Features:** User-Friendly, Easy to Use, More Accurate for Predictions
+- 🎯 **Problem Solved:** The projects aims to help farmers by recommending appropriate crop and fertilizer which ultimately helps them to maximize the crop-yield
+- 🔗 **Links:**  [Repository](https://github.com/Parth-Nilkanth/Agro_Expert)
 
 ### 🌾 [Mentor-Connect]
 **Tech Stack:** `React Js` `Node js` `Postgre-SQL`
 
-Brief description of what this project does and why it's awesome. Highlight the key features and impact.
+This project aims to connect mentees (students) and mentors in a helpful way. It helps to expand your netowork and finding right mentor based on the skill.
 
-- 🌟 **Key Features:** Feature 1, Feature 2, Feature 3
-- 🎯 **Problem Solved:** What problem does this solve?
-- 🔗 **Links:** [Live Demo](your-demo-link) | [Repository](your-repo-link)
-
-### 🏫 [Project Name 3]
-**Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
-
-Brief description of what this project does and why it's awesome. Highlight the key features and impact.
-
-- 🌟 **Key Features:** Feature 1, Feature 2, Feature 3
-- 🎯 **Problem Solved:** What problem does this solve?
-- 🔗 **Links:** [Live Demo](your-demo-link) | [Repository](your-repo-link)
+- 🌟 **Key Features:** Simple UI, Easy to Use, Meeting Interface
+- 🎯 **Problem Solved:** The project primarily focuses on building network and helping students to connect with various mentors to impprovise their skills
+- 🔗 **Links:** [Repository](https://github.com/Parth-Nilkanth/Mentor)
 
 ## 🌟 Areas of Interest
 
@@ -87,7 +78,7 @@ Brief description of what this project does and why it's awesome. Highlight the 
 - 🚀 **Performance Optimization**
 - 🛡️ **Security Best Practices**
 - 📊 **Data Structures & Algorithms**
-- 🤖 **Machine Learning Integration**
+- 🤖 **Machine Learning **
 
 ## 💻 Coding Profiles
 
@@ -102,7 +93,7 @@ Brief description of what this project does and why it's awesome. Highlight the 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth-Nilkanth&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 
@@ -119,7 +110,7 @@ Brief description of what this project does and why it's awesome. Highlight the 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Parth-Nilkanth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
