@@ -72,8 +72,8 @@ This project aims to connect mentees (students) and mentors in a helpful way. It
 
 ## 🌟 Areas of Interest
 
-- 🏗️ **System Design & Architecture**
-- 🔄 **Microservices & Distributed Systems**
+
+- 🔄 **Microservices & Spring Boot**
 - 🚀 **Performance Optimization**
 - 🛡️ **Security Best Practices**
 - 📊 **Data Structures & Algorithms**
