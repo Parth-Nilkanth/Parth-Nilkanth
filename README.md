@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Undergrad-Software Engineer** with a love for creating robust, scalable solutions. Currently diving deep into modern technologies and best practices to build systems that make a difference.
+I'm a passionate **Undergrad-Computer Engineer** with a love for creating robust, scalable solutions. Currently diving deep into modern technologies and best practices to build systems that make a difference.
 
 - 🔭 **Currently Learning:** [Computer Science]
 - 🌱 **Exploring:** [Java Spring Boot , Micro-Services]
