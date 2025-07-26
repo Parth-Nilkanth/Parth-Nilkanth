@@ -114,5 +114,5 @@ This project aims to connect mentees (students) and mentors in a helpful way. It
 </div>
 
 <div align="center">
-  💙 Thanks for visiting my profile!  💙
+  ❤️ Thanks for visiting my profile! ❤️
 </div>
