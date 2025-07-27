@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Parth]
+# Hi 👋 I'm [Parth]
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Problem+Solver;Tech+Enthusiast;Tech-Driven" alt="Typing SVG" />
