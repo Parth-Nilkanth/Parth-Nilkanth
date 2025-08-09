@@ -13,7 +13,7 @@ I'm a passionate **Undergrad-Computer Engineer** with a love for creating robust
 - 💡 **Passionate About:** [Backend Development , Web Development]
 - 📍 **Location:** [Kolhapur Maharashtra In]
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
